@@ -63,7 +63,6 @@ public class ThemeHandler : IThemeHandler {
         }
     };
 
-
     public event Action? ThemeChange;
     public bool ThemeMenuShown { get; set; }
     public bool DarkMode { get; set; } = true;

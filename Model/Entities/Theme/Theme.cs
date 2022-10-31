@@ -1,6 +1,4 @@
-﻿using Colors = MudBlazor.Colors;
-
-namespace Model.Entities.Theme;
+﻿namespace Model.Entities.Theme;
 
 public class Theme {
     public bool DarkMode { get; set; } = true;
